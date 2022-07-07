@@ -55,7 +55,7 @@ const createWindow = () => {
         width: 1900,
         height: 1000,
         title: `Better Kirka Client`,
-        backgroundColor: '#000000',
+        backgroundColor: '#222946',
         icon: __dirname + "/icon.ico",
         webPreferences: {
             preload: __dirname + '/preload/ingame.js',
