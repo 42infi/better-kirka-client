@@ -383,7 +383,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "\n" +
         "    <div class=\"module\">\n" +
         "        <input type=\"checkbox\" id=\"highlight\" name=\"highlight\">\n" +
-        "        <label for=\"highlight\">Highlight Players</label>\n" +
+        "        <label for=\"highlight\">Highlight Enemies</label>\n" +
         "    </div>\n" +
         "\n" +
         "    <div class=\"module\">\n" +
@@ -897,22 +897,22 @@ function animate() {
 
             if ((mat.color.r === 1 && mat.color.g < 1 && mat.color.b < 1) || !playerHighLight) continue;
 
-            let color = hexToRgb("#0000ff");
+            //let color = hexToRgb("#0000ff");
             if (!localPlayerClass.team || localPlayerClass.team !== player["50"].team) {
                 color = hexToRgb("#ff0000");
                 if (fullBlack) color = hexToRgb('#000000')
+                
+                let r = color.r * Number.MAX_SAFE_INTEGER;
+                let g = color.g * Number.MAX_SAFE_INTEGER;
+                let b = color.b * Number.MAX_SAFE_INTEGER;
+
+                mat.map = null;
+                mat.color.r = r;
+                mat.color.g = g;
+                mat.color.b = b;
+
+                mat.needsUpdate = true;
             }
-
-            let r = color.r * Number.MAX_SAFE_INTEGER;
-            let g = color.g * Number.MAX_SAFE_INTEGER;
-            let b = color.b * Number.MAX_SAFE_INTEGER;
-
-            mat.map = null;
-            mat.color.r = r;
-            mat.color.g = g;
-            mat.color.b = b;
-
-            mat.needsUpdate = true;
 
         }
     } catch {
