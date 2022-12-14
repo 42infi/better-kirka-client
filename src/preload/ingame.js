@@ -1,2 +1,2 @@
-const {clipboard, ipcRenderer} = require('electron');
+const {ipcRenderer} = require('electron');
 eval(ipcRenderer.sendSync('src'));
