@@ -1,0 +1,256 @@
+{
+  "donators": [
+    {
+      "name": "Axl",
+      "ids": ["#MTK3Z5"],
+      "discordId": "436589830777077782",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/1010612280775422093/1019727079320854528/rsz_2667.png"
+    },
+    {
+      "name": "Prod",
+      "ids": ["#4DD3XZ"],
+      "discordId": "1011034797595959316",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1027331355656331376/unknown.png"
+    },
+    {
+      "name": "infi",
+      "ids": ["#2Q0QKL"],
+      "discordId": "327812142101168128",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1020042667276632084/devbadge.png"
+    },
+    {
+      "name": "boden",
+      "ids": ["#YYRHG7"],
+      "discordId": "517402093066256404",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1020042667276632084/devbadge.png"
+    },
+    {
+      "name": "SheriffCarry",
+      "ids": ["#W5J3AB"],
+      "discordId": "619377929951903754",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/737761552006119525/1020352643283038249/catgirl.png"
+    },
+    {
+      "name": "l1cas",
+      "ids": ["#6FIJZY"],
+      "discordId": "714071002400686121",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "yzzz",
+      "ids": ["#HVCL3P"],
+      "discordId": "863284501202731008",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/1002601710604271626/1049868251540234340/yzzzNEW.png"
+    },
+    {
+      "name": "tay-k",
+      "ids": ["#7PWLQI"],
+      "discordId": "817265111144071188",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "zerg",
+      "ids": ["#FAYQ0E"],
+      "discordId": "823888160886358056",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "OniBeast",
+      "ids": ["#QCZSZK"],
+      "discordId": "663356370740838400",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Kosh",
+      "ids": ["#6L1WRO"],
+      "discordId": "341644874761764864",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "zombie",
+      "ids": ["#Z37B0Z"],
+      "discordId": "975466657197740032",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1040977499384979517/b57d2718c0f2330c0e06166d4b5fb606.png"
+    },
+    {
+      "name": "lsd",
+      "ids": ["#6IUE15"],
+      "discordId": "234792586043326464",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1040977499384979517/b57d2718c0f2330c0e06166d4b5fb606.png"
+    },
+    {
+      "name": "del",
+      "ids": ["#UVPIAP"],
+      "discordId": "185881245295706112",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "lar",
+      "ids": ["#4HCBF4"],
+      "discordId": "923511804070600714",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1040977499384979517/b57d2718c0f2330c0e06166d4b5fb606.png"
+    },
+    {
+      "name": "GoldenMango",
+      "ids": ["#UH98AE"],
+      "discordId": "1036820968083046473",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "StremZ",
+      "ids": ["#C8KLSB"],
+      "discordId": "289890121442918411",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "IsaacPhily",
+      "ids": ["#Y64AN1"],
+      "discordId": "493459779155656744",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "OnFire",
+      "ids": ["#D84BWU"],
+      "discordId": "643888919087415297",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/870620344468254760/1051485845795909682/fire.png"
+    },
+    {
+      "name": "Humbo",
+      "ids": ["#T5KBH4"],
+      "discordId": "306412210899517440",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "awkwa",
+      "ids": ["#NV6BPK"],
+      "discordId": "227279534175551489",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "~m",
+      "ids": ["#LORZQI"],
+      "discordId": "439904243240009729",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Briannn",
+      "ids": ["#JPI0TQ"],
+      "discordId": "458076924120399873",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "LonelyFragger",
+      "ids": ["#P4B05K"],
+      "discordId": "294922997364424704",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "lel",
+      "ids": ["#6YGZWX"],
+      "discordId": "701914276184457316",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1048757530706333757/lelBadge.png"
+    },
+    {
+      "name": "unable",
+      "ids": ["#DU8C8P"],
+      "discordId": "475652894818041856",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "gamesense",
+      "ids": ["#JT4VC2"],
+      "discordId": "973553161073721344",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "izi",
+      "ids": ["#RFXB4H"],
+      "discordId": "536285172337868801",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/1040044875271385128/1050556879392223334/2.0-2.png"
+    },
+    {
+      "name": "Boingoo",
+      "ids": ["#CEZ7ES"],
+      "discordId": "301086842227523585",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Cons",
+      "ids": ["#QH8CEO"],
+      "discordId": "643829343906299914",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Clean",
+      "ids": ["#WFUHVE"],
+      "discordId": "141289654627336193",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Delta",
+      "ids": ["#Y9W4QC"],
+      "discordId": "706744787428048938",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Incog",
+      "ids": ["#SQ0VI1"],
+      "discordId": "695679869773807627",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Irrvlo",
+      "ids": ["#H8N3U4"],
+      "discordId": "871895500490678273",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Ap",
+      "ids": ["#ZXDZQD"],
+      "discordId": "733754048355762271",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Loco",
+      "ids": ["#EQJQ47"],
+      "discordId": "942846355473301524",
+      "tier": 2,
+      "customBadge": ""
+    }
+  ]
+}
