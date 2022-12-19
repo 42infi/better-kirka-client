@@ -8,8 +8,6 @@ A simple, yet performance-optimized and feature-rich kirka client
 - Highly stable and outstanding performance <br/>
 - Advanced Features (including additional game features) 
   
-## Userscripts
-- You can put your own .js files in the folder at "\Documents\BetterKirkaClient\scripts" and they will execute on webpage load
 
 ## Features
 
