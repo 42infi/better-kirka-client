@@ -5,16 +5,9 @@ A simple, yet performance-optimized and feature-rich kirka client
 
 ### This client features:
 
-
 - Highly stable and outstanding performance <br/>
-- Constructive to the community (open source under [CC BY-NC 3.0](https://github.com/42infi/better-kirka-client/blob/master/LICENCE)) <br/>
 - Advanced Features (including additional game features) 
-- Userscripts
   
-## Licence
-- CC BY-NC 3.0 Licence
-- You are not allowed to use the code for any commercial purposes 
-
 ## Userscripts
 - You can put your own .js files in the folder at "\Documents\BetterKirkaClient\scripts" and they will execute on webpage load
 
