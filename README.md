@@ -1,3 +1,7 @@
+# Most features are broken after major game update.
+# Client will not work properly for an unspecified amount of time.
+
+
 # Better-Kirka-Client
 
 A simple, yet performance-optimized and feature-rich kirka client
